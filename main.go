@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	. "github.com/parinpan/jsarray/src"
+	. "github.com/parinpan/gojs-array/src"
 )
 
 func main() {
