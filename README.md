@@ -8,7 +8,7 @@ package main
 import (
 	"fmt"
 
-	. "github.com/parinpan/jsarray/src"
+	. "github.com/parinpan/go-jsarray/src"
 )
 
 func main() {
