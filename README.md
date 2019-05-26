@@ -2,7 +2,7 @@
 Who doesn't love Javascript iteration method? It keep us away from unreadable conventional looping that sometimes hurt the eyes.
 
 Everyone loves map, filter, reduce, and forEach Javascript's iteration methods. Find examples on main.go files:
-```
+```go
 package main
 
 import (
@@ -35,5 +35,4 @@ func main() {
 		fmt.Printf("[%d] Age: %d\n", index, age)
 	})
 }
-
 ```
