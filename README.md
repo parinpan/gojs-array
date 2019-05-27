@@ -1,5 +1,5 @@
 # gojs-array
-Who doesn't love Javascript iteration method? It keep us away from unreadable conventional looping that sometimes hurt the eyes.
+Who doesn't love Javascript iteration method? It keeps us away from unreadable conventional looping that sometimes hurts the eyes.
 
 Everyone loves map, filter, reduce, and forEach Javascript's iteration methods. Find examples on main.go file:
 ```go
